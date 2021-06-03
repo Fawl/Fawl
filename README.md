@@ -1,7 +1,7 @@
 <h2 align="center"> Hey, Jared here! </h2>
 
-I'm currently serving the Singapore Armed Forces as a Cyber Specialist Cadet, and intend to pursue degrees in Business Administration and Computer Science simultaneously offered by the National University of Singapore. 
+Currently serving as a Cyber Specialist in the Singapore Armed Forces.
 
-In my free time, I tinker with machine learning models, specializing in image processing and multiple instance learning.
+I also play Capture-the-Flag competitions with <a href="https://ctftime.org/team/154571z">Social Engineering Experts</a> in my free time.
 
 Drop me an email at <a href="mailto:jskyejet@gmail.com">jskyejet@gmail.com</a>!
